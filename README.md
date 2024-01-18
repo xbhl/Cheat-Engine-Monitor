@@ -6,7 +6,5 @@ Through being able to filter Window names (FINISHED) for the program to be able 
 
 Next step: Debating whether to implement multiple CE versions for the window title or to implement the speed hack module presence for universal support.
 
-<video width="640" height="480" controls>
-  <source src="previews\preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Preview:
+![Preview](previews\preview.gif)
